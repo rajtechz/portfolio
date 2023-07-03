@@ -1,5 +1,7 @@
 {
   "name": "comp-mantine",
+  "homepage": "https://rajtechz.github.io/portfolio",
+  "private": false,
   "version": "0.1.0",
   "dependencies": {
     "@mantine/core": "^6.0.9",
